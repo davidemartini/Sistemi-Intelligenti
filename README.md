@@ -1,1 +1,2 @@
 # Sistemi-Intelligenti
+Project developed by MARTINI DAVIDE  for "Sistemi Intelligenti" course. The professor in charge of this course is Silvana Badaloni of University of Padua. The goal of this project is to find the best way to classify SPAM and NON SPAM mail from email dataset. For more information and the description of the steps of this project read the paper "Classify SPAM-NON SPAM e-mails using SVM.pdf"
